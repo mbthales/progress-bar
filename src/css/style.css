@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+main{
+  height: 100%;
+}
+
+body{
+  font-size: 30px;
+}
+
+.text{
+  padding: 60px 500px;
+}
+
+.progress-bar{
+  position: fixed;
+  top: 0;
+  background-color: #000;
+  height: 10px;
+};
