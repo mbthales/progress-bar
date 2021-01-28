@@ -2,10 +2,10 @@
 A bar that increase accordingly to your reading.
 
 ## Usage
-Download or clone the repo and open the HTML file in your browser or just click in this [link](https://mbthales.github.io/progress-bar/).
+Download or clone this repo and open the HTML file in your browser or just click in this [link](https://mbthales.github.io/progress-bar/).
 
-## Tech
-The following tools were used in the construction of the project.
+## Tech/Tools
+The following tech/tools were used in the construction of the project.
 - JavaScript
 - HTML
 - CSS
